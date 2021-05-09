@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+org.jacoco.examples.maven,com.fm.model,Flight,10,48,0,6,2,12,3,9,3,6
+org.jacoco.examples.maven,com.fm.model,Passenger,11,12,0,0,2,2,3,2,3,2
+org.jacoco.examples.maven,com.fm,Application,4,0,0,0,2,0,2,0,2,0
